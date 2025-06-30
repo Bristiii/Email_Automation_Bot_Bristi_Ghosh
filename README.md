@@ -97,8 +97,8 @@ Docs: http://localhost:8000/docs
 
 ## About Me
 Name: Bristi Ghosh
-Email: gbristi95@gmail.com
-GitHub Repo: 
+<br>Email: gbristi95@gmail.com </br>
+GitHub Repo:https://github.com/Bristiii/Email_Automation_Bot_Bristi_Ghosh 
 Submission Date: 01-07-2025
 
 
