@@ -93,6 +93,10 @@ Backend runs at: http://localhost:8000
 Docs: http://localhost:8000/docs
 
 
+## 📸 Screenshots
+
+## THERE IS A SEPERATE FOLDER CALLED screenshots INSIDE THE REPO PLEASE WATCH THAT TO VISUALIZE ABOUT MY PROJECT.
+
 
 
 ## About Me
